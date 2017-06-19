@@ -30,7 +30,7 @@ LXDE Project: http://lxde.org/
 
 Authors:
 Hong Jen Yee (PCMan) &lt;pcman.tw@gmail.com&gt;</source>
-        <translation type="unfinished">LXImage - basit ve hızlı bir resim gösterici
+        <translation>LXImage - basit ve hızlı bir resim gösterici
 
 Telif Hakkı (C) 2013
 LXDE Projesi: http://lxde.org/
